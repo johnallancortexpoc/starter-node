@@ -7,3 +7,7 @@ info:
       repository: Mooretex/starter-node
   x-cortex-tag: web-backend
   x-cortex-type: service
+  x-cortex-issues:
+  jira:
+    labels:
+      - starter-node
