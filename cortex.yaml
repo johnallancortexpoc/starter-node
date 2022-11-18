@@ -5,9 +5,10 @@ info:
   x-cortex-git:
     github:
       repository: Mooretex/starter-node
-  x-cortex-tag: web-backend
+  x-cortex-tag: starter-node
   x-cortex-type: service
   x-cortex-issues:
     jira:
       labels:
         - "starter-node"
+      defaultJql: 'status = "In Progress" OR status = "To Do"'
