@@ -1,0 +1,9 @@
+openapi: 3.0.1
+info:
+  title: Web Backend
+  description: Node.js code for the web backend!
+  x-cortex-git:
+    github:
+      repository: Mooretex/starter-node
+  x-cortex-tag: web-backend
+  x-cortex-type: service
