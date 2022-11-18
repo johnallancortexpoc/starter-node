@@ -8,6 +8,6 @@ info:
   x-cortex-tag: web-backend
   x-cortex-type: service
   x-cortex-issues:
-  jira:
-    labels:
-      - starter-node
+    jira:
+      labels:
+        - starter-node
